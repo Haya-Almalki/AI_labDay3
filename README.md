@@ -1,6 +1,6 @@
-This is the lab for third day:
-1- Handling missing data.
-2- Duplicated data.
-3- Outliers.
-4- Scaling and Normalization.
-5- Encoding Categorical Variables.
+# This is the lab for third day:
+1- Handling missing data.<br />
+2- Duplicated data.<br />
+3- Outliers.<br />
+4- Scaling and Normalization.<br />
+5- Encoding Categorical Variables.<br />
