@@ -1,4 +1,4 @@
-This is the lab for third day:
+# This is the lab for third day:
 1- Handling missing data.
 2- Duplicated data.
 3- Outliers.
